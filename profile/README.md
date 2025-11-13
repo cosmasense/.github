@@ -11,4 +11,4 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-We are continuing createing something cool realted to AI & HCI & File System. Check them out! 
+We are creating something cool related to AI, HCI, and File Systems. To start, check out [Cosma](https://github.com/cosmasense/cosma)! 
